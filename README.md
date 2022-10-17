@@ -15,13 +15,13 @@ In constant technological watch, I am able to:
 
 💞️ I am currently co-founder and CTO of the startup Elocky, but I remain available in the evenings and weekends to help other projects.
 
-📫 My rates are:
+My rates are:
 - 🔹 Consultant Missions : 450 € / day
 - 🔹 Developer Missions : 550 € / day
 - 🔹 Missions Lead developer : 650 € / day
 - 🔹 CTO Missions : 750 € / day
 
-Feel free to find all my information on my website.
+📫 Feel free to find all my information on my website.
 
 <!---
 casper288/casper288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
