@@ -21,7 +21,7 @@ My rates are:
 - 🔹 Missions Lead developer : 640 € / day
 - 🔹 CTO Missions : 720 € / day
 
-📫 Feel free to find all my information on my website.
+📫 Feel free to find all my information on my website : https://davidbilliere.com
 
 <!---
 casper288/casper288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
