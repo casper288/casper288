@@ -16,10 +16,10 @@ In constant technological watch, I am able to:
 💞️ I am currently co-founder and CTO of the startup Elocky, but I remain available in the evenings and weekends to help other projects.
 
 My rates are:
-- 🔹 Consultant Missions : 480 € / day
-- 🔹 Developer Missions : 560 € / day
-- 🔹 Missions Lead developer : 640 € / day
-- 🔹 CTO Missions : 720 € / day
+- 🔹 SEO Consultant Missions : 480 € / day
+- 🔹 Fullstack Developer Missions : 560 € / day
+- 🔹 Achitecte Cloud Missions : 640 € / day
+- 🔹 CTO Consultant Missions : 720 € / day
 
 📫 Feel free to find all my information on my website : https://davidbilliere.com
 
