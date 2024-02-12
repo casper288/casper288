@@ -11,9 +11,7 @@ In constant technological watch, I am able to:
 - ☑️ Provide technical and strategic advice.
 - ☑️ Do R&D to design innovative IT products and understand their challenges.
 
-🌱 I am specialized in Full Stack web development in PHP preferably, with a big startup experience.
-
-💞️ I am currently co-founder and CTO of the startup Elocky, but I remain available in the evenings and weekends to help other projects.
+🌱 I am specialized in Full Stack web development in PHP preferably, with a big startup experience and former co-founder and CTO of startup Elocky.
 
 My rates are:
 - 🔹 SEO Consultant Missions : 560 € / day
